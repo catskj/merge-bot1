@@ -1,1 +1,1 @@
-worker: python3 heroku.yml
+web: python3 heroku.yml
