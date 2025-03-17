@@ -1,1 +1,1 @@
-worker: python3 app.json
+web: bash start.sh
